@@ -24,9 +24,9 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: facebook
-    url:
+    url: https://www.facebook.com/scubedcoaching/
   - title: instagram
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: https://www.instagram.com/bodymastery_/
 
 # Postal address (add as many lines as necessary)
 address:
