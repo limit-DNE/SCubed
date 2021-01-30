@@ -1,15 +1,14 @@
 ---
-title: Dreams
+title: Strength Training
 subtitle: Website Design
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: strength.jpg
+thumbnail: strength-thumb.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+description:  Also known as resistance training is a type of physical conditioning in which muscles are exercised by being worked against an opposing force (as by lifting weights) to increase strength.
 ---
