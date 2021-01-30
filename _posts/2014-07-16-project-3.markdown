@@ -1,15 +1,12 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Calisthenics
+subtitle: Bodyweight Training
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+img: calisthenics.jpg
+thumbnail: calisthenics-thumb.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+description: Calisthenics are exercises that don’t rely on anything but a person’s own body weight. These exercises are performed with differing levels of intensity and rhythm. Sometimes these exercises are done with light handheld tools like rings and wands.
+These exercises allow for the development of strength, endurance, flexibility, and coordination
 ---
