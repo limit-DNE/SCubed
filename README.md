@@ -1,0 +1,2 @@
+# SCubed
+A jekyll site
