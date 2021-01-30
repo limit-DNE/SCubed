@@ -1,6 +1,6 @@
 ---
 title: Strength Training
-subtitle: Resistance training
+subtitle: Resistance Training
 layout: default
 modal-id: 1
 date: 2014-07-18
