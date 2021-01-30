@@ -658,7 +658,7 @@ aside.clients img {
 
 section#contact {
     background-color: #222;
-    background-image: url('{{ site.baseurl }}/img/health-fitness-tips-weight.png');
+    background-image: url('{{ site.baseurl }}/img/fitness-clipart.png');
     background-position: center;
     background-repeat: no-repeat;
 }
