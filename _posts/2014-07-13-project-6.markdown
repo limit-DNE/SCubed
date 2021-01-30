@@ -8,5 +8,4 @@ img: plyometric.jpg
 thumbnail: plyometric-thumb.jpg
 alt: image-alt
 description: Plyometrics, also known as jump training or plyos, are exercises in which muscles exert maximum force in short intervals of time, with the goal of increasing power.
-
 ---

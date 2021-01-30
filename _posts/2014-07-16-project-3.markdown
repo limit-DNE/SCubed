@@ -7,6 +7,5 @@ date: 2014-07-16
 img: calisthenics.jpg
 thumbnail: calisthenics-thumb.jpg
 alt: image-alt
-description: Calisthenics are exercises that don’t rely on anything but a person’s own body weight. These exercises are performed with differing levels of intensity and rhythm. Sometimes these exercises are done with light handheld tools like rings and wands.
-These exercises allow for the development of strength, endurance, flexibility, and coordination
+description: Calisthenics are exercises that don’t rely on anything but a person’s own body weight. These exercises allow for the development of strength, endurance, flexibility, and coordination.
 ---
