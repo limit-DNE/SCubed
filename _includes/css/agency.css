@@ -269,21 +269,13 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/front-split.jpg');
-    /* background-position: center center;
+    background-image: url('{{ site.baseurl }}/img/darkened.JPG');
+    background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
-    -o-background-size: cover; */
-    /* Full height */
- height: 100%;
-
- /* Create the parallax scrolling effect */
- background-attachment: fixed;
- background-position: center;
- background-repeat: no-repeat;
- background-size: cover;
+    -o-background-size: cover;
 }
 
 header .intro-text {
