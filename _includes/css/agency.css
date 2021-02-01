@@ -324,6 +324,10 @@ header .intro-text .intro-heading {
     }
 }
 
+.whatsapp-link-container{
+  background-color: yellow;
+}
+
 section {
     padding: 100px 0;
 }
