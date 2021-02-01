@@ -188,7 +188,8 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-collapse {
-    border-color: #{{ site.data.template.color.secondary }};
+    border-color: rgba(255,255,255,.02);
+    background-color: #{{ site.data.template.color.secondary }};
 }
 
 .navbar-default .navbar-toggle {
@@ -301,7 +302,7 @@ header .intro-text .intro-heading {
 }
 
 whatsapp-link-container{
-  padding-bottom: 50em;
+  padding-bottom: 20em;
 }
 
 @media(min-width:768px) {
