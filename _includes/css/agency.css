@@ -327,7 +327,9 @@ header .intro-text .intro-heading {
 .whatsapp-link-container{
   background-color: yellow;
 }
-
+.whatsapp-link{
+  padding-bottom: 20em;
+}
 section {
     padding: 100px 0;
 }
