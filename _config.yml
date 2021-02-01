@@ -26,6 +26,8 @@ social:
     url: https://www.facebook.com/scubedcoaching/
   - title: instagram
     url: https://www.instagram.com/bodymastery_/
+  - title: whatsapp
+    url: https://api.whatsapp.com/send?phone=447850405377
 
 # Postal address (add as many lines as necessary)
 address:
