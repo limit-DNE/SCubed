@@ -205,6 +205,10 @@ fieldset[disabled] .btn-xl.active {
     background-color: #{{ site.data.template.color.primary }};
 }
 
+.navbar-header .page-scroll{
+  background-color: pink;
+}
+
 .navbar-default .nav li a {
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
