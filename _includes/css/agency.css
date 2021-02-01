@@ -302,6 +302,7 @@ header .intro-text .intro-heading {
 
 .whatsapp-link{
   margin-bottom: 25px;
+  margin-top: 25px;
 }
 
 @media(min-width:768px) {
