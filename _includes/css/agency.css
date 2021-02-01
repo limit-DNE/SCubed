@@ -178,8 +178,8 @@ fieldset[disabled] .btn-xl.active {
 .img-logo{
   height: auto;
  width: auto;
- max-height: 72px;
- max-width: 250px;
+ max-height: 10px;
+ max-width: 10px;
 }
 
 .navbar-default .navbar-brand {
