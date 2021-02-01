@@ -301,7 +301,7 @@ header .intro-text .intro-heading {
 }
 
 whatsapp-link-container{
-  padding-bottom: 20em;
+  margin-bottom: 50em;
 }
 
 @media(min-width:768px) {
