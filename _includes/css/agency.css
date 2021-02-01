@@ -206,7 +206,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-brand .page-scroll{
-  background-color: pink;
+  background-color: #{{ site.data.template.color.primary }};
 }
 
 .navbar-default .nav li a {
