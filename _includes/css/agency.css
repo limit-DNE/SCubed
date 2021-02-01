@@ -205,10 +205,6 @@ fieldset[disabled] .btn-xl.active {
     background-color: #{{ site.data.template.color.primary }};
 }
 
-.navbar-brand .page-scroll{
-  background-color: #{{ site.data.template.color.primary }};
-}
-
 .navbar-default .nav li a {
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
