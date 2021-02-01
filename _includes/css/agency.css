@@ -301,7 +301,11 @@ header .intro-text .intro-heading {
 }
 
 .whatsapp-link{
-color: #333;
+color: white;
+}
+
+.whatsapp-link:hover{
+  color: grey;
 }
 
 @media(min-width:768px) {
