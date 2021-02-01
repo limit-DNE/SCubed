@@ -300,6 +300,10 @@ header .intro-text .intro-heading {
     line-height: 50px;
 }
 
+whatsapp-link-container{
+  padding-bottom: 50em;
+}
+
 @media(min-width:768px) {
     header .intro-text {
         padding-top: 300px;
@@ -324,9 +328,6 @@ header .intro-text .intro-heading {
     }
 }
 
-.whatsapp-link{
-  padding-top: 20em;
-}
 section {
     padding: 100px 0;
 }
