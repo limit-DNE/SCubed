@@ -6,10 +6,6 @@ title: S Cubed Coaching
 email: t.rogers.bath@gmail.com
 description: "Personal trainer based in Birmingham to improve your strength, skill and mobility training goals."
 
-#Google maps
-maps:
-  google:
-    api_key: AIzaSyBs4LOKTr_3AhJ2D4Nrl5LY2-uKk0Tvxkw
 # Team names, titles and social links
 people:
 - name: Melody Morris
