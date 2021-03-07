@@ -1,0 +1,12 @@
+---
+title: Stretch Training
+subtitle: Develop Mobility and Flexibility
+layout: default
+modal-id: 3
+date: 2014-07-17
+img: frontsplit.jpg
+thumbnail: frontsplit.jpg
+alt: image-alt
+description: Flexibility is the range of motion in a joint or group of joints or the ability to move joints effectively through a complete range of motion. Flexibility training includes stretching exercises to lengthen the muscles.
+
+---
