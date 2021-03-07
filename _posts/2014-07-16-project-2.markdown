@@ -1,0 +1,11 @@
+---
+title: Skill Training
+subtitle: Calisthenics and Bodyweight Training
+layout: default
+modal-id: 2
+date: 2014-07-16
+img: handstand-straddle-beach.jpg
+thumbnail: handstand-straddle-beach.jpg
+alt: image-alt
+description: Calisthenics are exercises that don’t rely on anything but a person’s own body weight. These exercises allow for the development of strength, endurance, flexibility, and coordination.
+---
