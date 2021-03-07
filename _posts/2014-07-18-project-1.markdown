@@ -4,8 +4,8 @@ subtitle: Resistance Training
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: squat.jpg
-thumbnail: squat.jpg
+img: Squat.jpg
+thumbnail: Squat.jpg
 alt: image-alt
 description:  Also known as resistance training is a type of physical conditioning in which muscles are exercised by being worked against an opposing force (as by lifting weights) to increase strength.
 ---
